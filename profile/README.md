@@ -1,1 +1,1 @@
-Glide's mission is to put the power, beauty, and magic of software development into the hands of a billion new creators. [Join us](https://www.glideapps.com/jobs).
+Glide's mission is to become the operating system for your business, by turning spreadsheets into beautiful, intelligent apps. [Join us](https://www.glideapps.com/jobs).
